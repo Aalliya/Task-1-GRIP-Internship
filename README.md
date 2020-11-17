@@ -1,4 +1,27 @@
-# Task-1-GRIP-Internship
-Task # 1 - To Explore Supervised Machine Learning In this regression task, we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables. What will be predicted score if a student study for 9.25 hrs in a day?
+# GRIP
+# Data Science & Business Analytics Tasks
 
-Task 1 dataset- http://bit.ly/w-data
+# Task-1 
+Problem Statement:- Predict the percentage of an student based on the no. of study hours. 
+Dataset:- http://bit.ly/w-data
+
+# Task-2
+Problem Statement:- The given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
+Dataset:- https://bit.ly/3kXTdox
+
+# Task-3
+Problem Statement:- Exploratory Data Analysis on dataset ‘SampleSuperstore’ 
+Dataset:- https://bit.ly/3i4rbWl
+
+# Task-4
+Problem Statement:- Exploratory Data Analysis on dataset ‘Global Terrorism’ 
+Dataset:-  https://bit.ly/2TK5Xn5
+
+# Task-5
+Problem Statment:- Exploratory Data Analysis on dataset ‘Indian Premier League’ 
+Dataset:- https://bit.ly/34SRn3b
+
+# Task-6
+Problem Statement: Create the Decision Tree classifier and visualize it graphically. 
+Dataset:- https://bit.ly/3kXTdox
+
